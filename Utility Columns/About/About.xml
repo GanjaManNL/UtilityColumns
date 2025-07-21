@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+   <name>Utility Columns (Continued)</name>
+   <author>Nephlite, Maxim</author>
+   <supportedVersions>
+		<li>1.2</li>
+		<li>1.3</li>
+		<li>1.4</li>
+		<li>1.5</li>
+      <li>1.6</li>
+   </supportedVersions>
+   <packageId>ganjamannl.orbitaltradecolumn</packageId>
+   <description>
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Continuation of https://steamcommunity.com/sharedfiles/filedetails/?id=2013476665 Made by; NEPH.
+
+unsubscribe from old mod to avoid issues using this one.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Original Description:
+
+Adds several types of utility column.
+All columns hold up the roof, beware of possible roof collapse when moving.
+</description>
+
+</ModMetaData>
